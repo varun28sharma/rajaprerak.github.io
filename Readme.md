@@ -60,7 +60,7 @@
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine.
+    - 👯 Clone this repo to your system locally.
 
 
 #### Step 2
